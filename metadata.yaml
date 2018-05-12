@@ -1,0 +1,36 @@
+_repo: Le-chevalier-d-Harmental_18028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Historical Fiction
+gutenberg_issued: '2006-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18028'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cellamare Conspiracy, 1718 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- History -- Regency, 1715-1723 -- Fiction'
+- !lcsh 'Orléans, Philippe, duc d'', 1674-1723 -- Fiction'
+title: Le chevalier d'Harmental
+url: http://www.gutenberg.org/ebooks/18028
